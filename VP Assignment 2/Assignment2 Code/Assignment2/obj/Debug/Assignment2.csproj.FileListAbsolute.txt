@@ -1,0 +1,12 @@
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form3.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form4.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form5.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Form6.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\OneDrive\Current\Config\VP-CSC-313\Assignments\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
